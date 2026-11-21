@@ -7,9 +7,8 @@ Individual short-story assignment package
 Replace these placeholders before submission:
 
 - GitHub repository: https://github.com/SankalpWr/Learning-to-Reason-for-Long-Form-Story-Generation
-- Medium article: `PASTE_MEDIUM_ARTICLE_URL`
+- Medium article: `https://medium.com/@wahanesankalp29/from-prompting-to-reasoning-llm-based-long-form-story-generation-8fd9012944b0?sharedUserId=wahanesankalp29`
 - SlideShare presentation: `PASTE_SLIDESHARE_URL`
-- Approved-topic spreadsheet: `PASTE_SPREADSHEET_URL`
 - Presentation video: `PASTE_GITHUB_VIDEO_URL_OR_YOUTUBE_URL`
 
 ## Topic and research question
