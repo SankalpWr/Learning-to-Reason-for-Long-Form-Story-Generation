@@ -1,0 +1,16 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Office temporary files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# Python / generic
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
